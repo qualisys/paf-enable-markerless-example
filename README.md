@@ -11,7 +11,7 @@ To download a release version (tested), please [Click here](https://github.com/q
 ## Preparing Qualisys data for ENABLE processing
 
 ENABLE is a markerless engine developed by the Southwest Research Institute (https://www.swri.org/industry/biomechanics-human-performance/markerless-motion-capture-laboratory).
-1. Contact enable.swri.org to get the ENABLE installer, license file and installation information.
+1. Contact enable@swri.org to get the ENABLE installer, license file and installation information.
 2. Run the installer and follow the instructions.
 3. In QTM, set Project Options > Miscellaneous > Folder Options for "ENABLE" to ```C:\Program Files (x86)\ENABLE\enable.exe``` (adapt if installed at different location).
 4. Download data from Qualisys File Library (https://qfl.qualisys.com/#!/project/theiaexample)
